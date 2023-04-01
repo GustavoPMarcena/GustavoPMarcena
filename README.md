@@ -1,5 +1,4 @@
 ## Olá, eu sou Gustavo Pereira
-<hr>
 <p>Atualmente cursando ADS no IFPB - Campus Cajazeiras, formado em técnico em informática integrado, sempre buscando aprender mais sobre programação</p>
 
 <div align="center">
