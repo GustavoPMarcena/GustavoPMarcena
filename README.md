@@ -1,7 +1,7 @@
 ## Olá, eu sou Gustavo Pereira
 <p>Atualmente cursando ADS no IFPB - Campus Cajazeiras, formado no curso técnico em informática integrado ofertado na mesma instituição, sempre buscando aprender mais sobre programação e tecnologia</p>
 
-<div align="center">
+<div align="center" style="display:flex;">
   <a href="https://github.com/GustavoPMarcena">
   <img height="180em" width="456.92em" src="https://github-readme-stats.vercel.app/api?username=GustavoPMarcena&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
   <img height="180em" width="456.92em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPMarcena&layout=compact&langs_count=7&theme=nightowl"/> 
