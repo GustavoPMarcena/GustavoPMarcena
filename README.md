@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
 ##
 
 <div style="center">
-  <a href="https://www.instagram.com/gustavopereiramarcena/" target="_blank">
+  <a href="https://instagram.com/gustavopereira2077?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href = "gustavopereira4080@gmail.com">
