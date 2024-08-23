@@ -26,8 +26,4 @@ Desenvolvedor Full-Stack, atualmente cursando ADS no IFPB - Campus Cajazeiras, f
 
 </p>
 
-## Status:
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavopmarcena&theme=dark" alt="gustavopmarcena" />
-<img height="180em" width="456.92em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPMarcena&layout=compact&langs_count=7&theme=dark"/> 
 
