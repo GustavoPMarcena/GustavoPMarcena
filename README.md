@@ -1,5 +1,5 @@
 # Olá 👋, eu sou Gustavo Pereira
-Desenvolvedor Full-Stack, atualmente cursando ADS no IFPB - Campus Cajazeiras, formado no curso técnico em informática integrado ofertado na mesma instituição, sempre buscando aprender mais sobre programação e tecnologia
+Desenvolvedor Full-Stack, atualmente cursando ADS no IFPB - Campus Cajazeiras, formado no curso técnico em informática integrado ofertado na mesma instituição, sempre buscando aprender mais sobre programação e tecnologia.
 
 ## Me contate por:
 
